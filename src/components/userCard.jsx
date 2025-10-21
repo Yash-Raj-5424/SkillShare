@@ -1,4 +1,4 @@
-import { Star } from "lucide-react";
+import { Star } from "@heroicons/react/24/solid";
 
  function UserCard() {
   return (
