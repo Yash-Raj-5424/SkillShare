@@ -1,7 +1,7 @@
 import React from "react"
 import Navbar from "./components/Navbar"
 import Home from "./components/Home"
-import UserCard from "./components/userCard"
+import UserCard from "./components/UserCard"
 
 function App() {
   
